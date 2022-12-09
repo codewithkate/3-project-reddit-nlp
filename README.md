@@ -4,7 +4,9 @@ Kate Crawford | US-DSI-1010 | 12.06.2022
 
 ## Problem Statement
 ___
-The intention behind this project is to predict when people are asking for legal advice. Considering the low access rate to legal services, these posts are considered valid forms for evaluating legal related questions. Therefore, it is suggested that the models and insights provided by the project could be used for attorney-client matching projects to address in [The Justice Gap]https://www.lsc.gov/events/justice-gap-2022-report-release-unmet-civil-legal-needs-low-income-americans)
+The intention behind this project is to predict when people are asking for legal advice. Considering the low access rate to legal services, these posts are considered valid forms for evaluating legal related questions. Therefore, it is suggested that the models and insights provided by the project could be used for attorney-client matching projects to address in [The Justice Gap](https://www.lsc.gov/events/justice-gap-2022-report-release-unmet-civil-legal-needs-low-income-americans). 
+
+View the presentation slides for this project [here](https://drive.google.com/file/d/10vNTveZoSe-bpelQiXR9gZizJKEB2pcX/view?usp=share_link).
 
 
 ## Project Directory
