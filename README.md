@@ -8,6 +8,7 @@ View the presentation slides for this project [here](https://drive.google.com/fi
 
 
 ## Project Directory
+```
 project-3
 |__ code
 |   |__ 01_Subreddit_Collection.ipynb
@@ -24,7 +25,7 @@ project-3
 |   |__ raw_legal_frame_initial_scrape.csv
 |__ nlp_reddit_presentation.pdf
 |__ README.md
-
+```
 
 ## Exectuive Summary
 First, post data was collected from the r/legaladvice and the r/relationships subreddits using Pushshift's API, the Requests library, and Beautiful Soup. About 10,000 posts from each subreddit was placed into dataframes and saved to CSV files. These two datasets were taken into another notebook and cleaned separately. Based on value counts, any missing, duplicate, and unwanted data was identified and removed. Once cleaned, the dataframes were merged. Using a replace function, binary values of 0 and 1 were applied to r/relationships and r/legaladvice, respectively, for the subreddit labels used in classification modeling.
