@@ -1,4 +1,4 @@
-# NLP Reddit Project
+# NLP for Attoryney-Client Matching Services
 Kate Crawford | US-DSI-1010 | 12.06.2022
 
 ## Problem Statement
